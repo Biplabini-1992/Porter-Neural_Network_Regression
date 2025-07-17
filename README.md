@@ -22,9 +22,9 @@ Each row in the dataset corresponds to a unique delivery. Key features include:
 ## 🔧 Project Pipeline
 
   ### 1. 🧼 Data Preprocessing & Feature Engineering
-      - Parsed timestamps to calculate actual delivery duration (target)
+    - Parsed timestamps to calculate actual delivery duration (target)
   
-      - Extracted hour of day and day of week features
+    - Extracted hour of day and day of week features
       
       - Handled missing values
       
